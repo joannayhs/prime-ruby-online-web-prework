@@ -6,5 +6,5 @@ def prime?(num)
      num%divisor != 0
     true
   end
-end
+  end
 end
